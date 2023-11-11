@@ -14,16 +14,18 @@ The data set contains the data regarding several taxi trips and its duration in 
 
 *Metrics*: RMSLE (Root Mean Squared Log Error)
 
+[Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_5/project_5/project_5_Regression_LK.ipynb)
+
 ## Content
-[Introduction](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Introduction)
+[Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Introduction)
 
-[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Checking-dataset-:-outliers-,-duplicates)
+[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Checking-dataset-:-outliers-,-duplicates)
 
-[Eda. Feature Engineering](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Eda.-Feature-Engineering)
+[Eda. Feature Engineering](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Eda.-Feature-Engineering)
 
-[Feature Selection](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Feature-Selection)
+[Feature Selection](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Feature-Selection)
 
-[Machine Learning Models](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Machine-Learning-Models)
+[Machine Learning Models](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Machine-Learning-Models)
 
 ## Introduction
 Work on this project based on the next 6 datasets:
@@ -96,4 +98,4 @@ The best result:
     * dropoff_latitude
     * pickup_longitude
 
-:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-5/blob/main/README.md#Content)
+:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_5#Content)
