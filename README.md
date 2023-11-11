@@ -11,4 +11,4 @@ Course: [SkillFactory Data Science](https://skillfactory.ru/data-science-special
 * [Project 6. Clustering: Client segmentation](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6)
 
 ## FINAL PROJECT
-* [Final project](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final)
+* [Final project: Resume recommender system](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final)
