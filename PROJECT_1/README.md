@@ -1,17 +1,19 @@
 # SF-DS-Project-1
 ## Проект 1. Анализ вакансий на hh.ru
-Ссылка для загрузки датасета: https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1RklOSUpvnQ-d4hfsIV17YVjHycbXTwbF
+[Ссылка для загрузки датасета](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1RklOSUpvnQ-d4hfsIV17YVjHycbXTwbF)
+
+[Cсылка на проект](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_1/project_1/project_1_LK.ipynb)
 
 ### Оглавление
-[1. Исследование структуры данных](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Исследование-структуры-данных)
+[1. Исследование структуры данных](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Исследование-структуры-данных)
 
-[2. Преобразование данных](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Преобразование-данных)
+[2. Преобразование данных](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Преобразование-данных)
 
-[3. Исследование зависимостей в данных](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Исследование-зависимостей-в-данных)
+[3. Исследование зависимостей в данных](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Исследование-зависимостей-в-данных)
 
-[4. Очистка данных](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Очистка-данных)
+[4. Очистка данных](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Очистка-данных)
 
-[5. Выводы](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Выводы)
+[5. Выводы](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Выводы)
 
 #### Исследование структуры данных
 - Вывод первых(/ последних) строк для визуальной оценки структуры dataframe;
@@ -19,7 +21,7 @@
 - Получение информации о столбцах: индексы, названия, количество, число непустых значений, кол-во оперативной памяти в МБ;
 - Получение описательной статистики (анализ данных типа object).
 
-:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Оглавление)
 
 #### Преобразование данных
 - "Образование и ВУЗ" -> "Образование" с 4 категориями уровней образования;
@@ -51,4 +53,4 @@
 
 #### Выводы
 
-:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF-DS-Project-1/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_1#Оглавление)
