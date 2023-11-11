@@ -11,20 +11,21 @@
 * This notebook is copied from Kaggle
 * Some of the graphs are coded as plotly charts. But they are not showing up in Git
 * In order to show plotly (px) charts you can add this code - fig.write_image('fig.png')
-* I did not rewrite the code for data not on Kaggle
+
+[Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_3/project_3/project_3_EDA_LK.ipynb)
 
 ### Content
-[Introduction](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Introduction)
+[Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Introduction)
 
-[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Checking-dataset-:-outliers-,-duplicates)
+[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Checking-dataset-:-outliers-,-duplicates)
 
-[Feature Engineering](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Feature-Engineering)
+[Feature Engineering](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Feature-Engineering)
 
-[Encoding Features](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Encoding-Features)
+[Encoding Features](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Encoding-Features)
 
-[Feature Selection](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Feature-Selection)
+[Feature Selection](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Feature-Selection)
 
-[Machine Learning](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Machine-Learning)
+[Machine Learning](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Machine-Learning)
 
 #### Introduction
 I joined train and test data into one main dataset for the correct feature processing.
@@ -106,4 +107,4 @@ In order to get correct submission file in Kaggle I did not delete full duplicat
 
 (In earlier version of notebook I got MAPE value 12.53914. But this version is more interesting by feature engineering stage)
 
-:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Content)
+:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_3#Content)
