@@ -12,20 +12,22 @@ To group customers with similar purchasing power together.
 
 *Metrics*: Accuracy score
 
+[Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_6/project/project_6_Clusterization_LK.ipynb)
+
 ## Content
-[Introduction](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Introduction)
+[Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#Introduction)
 
-[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Checking-dataset-:-outliers-,-duplicates)
+[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#Checking-dataset-:-outliers-,-duplicates)
 
-[Exploratory Data Analysis (EDA). Feature Engineering](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Exploratory-Data-Analysis-(EDA).-Feature-Engineering)
+[Exploratory Data Analysis (EDA). Feature Engineering](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#Exploratory-Data-Analysis-(EDA).-Feature-Engineering)
 
-[RFM-customers segmentation. Part I](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#RFM-customers-segmentation.-Part-I)
+[RFM-customers segmentation. Part I](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#RFM-customers-segmentation.-Part-I)
 
-[RFM-customers segmentation. Part II](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#RFM-customers-segmentation.-Part-II)
+[RFM-customers segmentation. Part II](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#RFM-customers-segmentation.-Part-II)
 
-[RFM-customers segmentation. Part II](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#RFM-customers-segmentation.-Part-II)
+[RFM-customers segmentation. Part II](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#RFM-customers-segmentation.-Part-II)
 
-[RFM-customers segmentation. Part III. Classification model](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#RFM-customers-segmentation.-Part-III.-Classification-model)
+[RFM-customers segmentation. Part III. Classification model](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#RFM-customers-segmentation.-Part-III.-Classification-model)
 
 ## Introduction
 - Dataset's shape: 541_909 rows, 8 columns
@@ -80,4 +82,4 @@ The best result:
 * *Model*: Ensembles - Random Forest Classifier
 * *Accuracy score on test data*: 0.985
 
-:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Content)
+:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_6#Content)
