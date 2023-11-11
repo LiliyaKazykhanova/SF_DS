@@ -14,20 +14,22 @@ Our task to define customer characteristics which one is ready to open deposit.
 
 *Metrics*: F1_score
 
+[Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_4/project_4/project_4_Classification_LK.ipynb)
+
 ### Content
-[Introduction](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Introduction)
+[Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Introduction)
 
-[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Checking-dataset-:-outliers-,-duplicates)
+[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Checking-dataset-:-outliers-,-duplicates)
 
-[Feature Engineering](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Feature-Engineering)
+[Feature Engineering](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Feature-Engineering)
 
-[Feature Encoding](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Feature-Encoding)
+[Feature Encoding](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Feature-Encoding)
 
-[Feature Selection](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Feature-Selection)
+[Feature Selection](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Feature-Selection)
 
-[Classification ML models: Logistic Regression and Decision Tree](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Classification-ML-models:-Logistic-Regression-and-Decision-Tree)
+[Classification ML models: Logistic Regression and Decision Tree](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Classification-ML-models:-Logistic-Regression-and-Decision-Tree)
 
-[Classification ML models: Ensembles](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Classification-ML-models:-Ensembles)
+[Classification ML models: Ensembles](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Classification-ML-models:-Ensembles)
 
 #### Introduction
 - dataset shape: 11162 rows, 17 columns
@@ -84,4 +86,4 @@ The best result:
     * contact_unknown
     * poutcome_success
 
-:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-4/blob/main/README.md#Content)
+:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_4#Content)
