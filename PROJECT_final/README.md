@@ -27,20 +27,22 @@ To create a recommender system that recommends the best-matched resumes to vacan
 * Git has limit: 100 MB. That's why some of the files are pushed as zip.file
 * This project (input and output data) is available on Kaggle by the link (version 5): https://www.kaggle.com/code/liliyak/final-project-updated/notebook
 
+[Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_final/project/Final_project_1st_year_LK.ipynb)
+
 ## Content
-[Introduction](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Introduction)
+[Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Introduction)
 
-[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Checking-dataset-:-outliers-,-duplicates)
+[Checking dataset: outliers, duplicates](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Checking-dataset-:-outliers-,-duplicates)
 
-[Feature engineering: Text preprocessing](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Feature-engineering:-Text-preprocessing)
+[Feature engineering: Text preprocessing](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Feature-engineering:-Text-preprocessing)
 
-[Resume recommendation based on similarity score](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Resume-recommendation-based-on-similarity-score)
+[Resume recommendation based on similarity score](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Resume-recommendation-based-on-similarity-score)
 
-[Resume recommendation based on clusters](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Resume-recommendation-based-on-clusters)
+[Resume recommendation based on clusters](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Resume-recommendation-based-on-clusters)
 
-[Resume recommendation based on topics](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Resume-recommendation-based-on-topics)
+[Resume recommendation based on topics](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Resume-recommendation-based-on-topics)
 
-[Further research: Bonus](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Further-research:-Bonus)
+[Further research: Bonus](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Further-research:-Bonus)
 
 ## INTRODUCTION
 - Datasets. It's given 5 datasets
@@ -123,4 +125,4 @@ It's necessary to preprocess text data for using in algorithm:
     * Explore the other approaches of Recommender System in case when we have no any labeled data.
 - **BONUS**: I run sentence transformer model to check group of job positions. It could be used as instrument to create "real" classes of job titles.
 
-:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-6/blob/main/README.md#Content)
+:arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final#Content)
