@@ -1,30 +1,32 @@
 # SF-DS-Project-2-SQL
-## Проект: Анализ вакансий для IT-специалистов из HeadHunter
+## Проект: Анализ вакансий для IT-специалистов из HeadHunter (SQL)
 
 *Цель проекта*: провести анализ данных (Data Understanding) - подбор вакансий для IT-специалистов.
 
 *Данные*: выгрузка вакансий для IT-специалистов. 5 содержательных таблиц.
 
+[Cсылка на проект](https://github.com/LiliyaKazykhanova/SF_DS/blob/main/PROJECT_2/project_2/project_2_SQL_LK.ipynb)
+
 ### Оглавление
-[Знакомство с данными](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Знакомство-с-данными)
+[Знакомство с данными](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Знакомство-с-данными)
 
-[Предварительный анализ данных](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Предварительный-анализ-данных)
+[Предварительный анализ данных](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Предварительный-анализ-данных)
 
-[Детальный анализ вакансий](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Детальный-анализ-вакансий)
+[Детальный анализ вакансий](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Детальный-анализ-вакансий)
 
-[Анализ работодателей](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Анализ-работодателей)
+[Анализ работодателей](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Анализ-работодателей)
 
-[Предметный анализ](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Предметный-анализ)
+[Предметный анализ](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Предметный-анализ)
 
-[Анализ вакансий от "Яндекс"](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Анализ-вакансий-от-"Яндекс")
+[Анализ вакансий от "Яндекс"](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Анализ-вакансий-от-"Яндекс")
 
-[Общий вывод по проекту](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Общий-вывод-по-проекту)
+[Общий вывод по проекту](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Общий-вывод-по-проекту)
 
 #### Знакомство с данными
 - Вывод первых(/ последних) строк для визуальной оценки структуры таблиц;
 - 5 таблиц: VACANCIES, AREAS, EMPLOYERS, INDUSTRIES, EMPLOYERS_INDUSTRIES.
 
-:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Оглавление)
 
 #### Предварительный анализ данных
 - Количество записей в таблице VACANCIES - 49197;
@@ -58,4 +60,4 @@
 
 #### Общий вывод по проекту
 
-:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF-DS-Project-2/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_2#Оглавление)
