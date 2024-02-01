@@ -19,7 +19,7 @@ Facial Recognition is the task of making a positive identification of a face in 
 
 **NOTES**:
 * I run it based on Kaggle resources (with GPU accelerator)
-* This project (input and output data) is available on Kaggle by the link [version 2](`https://www.kaggle.com/code/liliyak/project-1-image-classification-faces/notebook`)
+* This project (input and output data) is available on Kaggle by the link (version 2): `https://www.kaggle.com/code/liliyak/project-1-image-classification-faces/notebook`
 
 [Link to Project](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/COMPUTER_VISION_PROJECTS/PROJECT_1/project/project-1-image-classification-faces.ipynb)
 
