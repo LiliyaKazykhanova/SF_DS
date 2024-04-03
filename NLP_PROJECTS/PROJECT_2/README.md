@@ -40,7 +40,7 @@ Text Sentiment classification is the automated process of identifying and classi
 - Train dataset: 41159 examples
 - Test dataset: 3798 examples
 
-## **FEATURE ENGINEERING: Text preprocessing**
+## **FEATURE ENGINEERING: TEXT PREPROCESSING**
 ***Text preprocessing:***
 
 It's necessary to preprocess text data for using in algorithm:
