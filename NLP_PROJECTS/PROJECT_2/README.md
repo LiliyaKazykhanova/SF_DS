@@ -27,7 +27,7 @@ Text Sentiment classification is the automated process of identifying and classi
 ## Content
 [Introduction](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Introduction)
 
-[Feature engineering: Text preprocessing](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Feature-engineering:-Text-preprocessing)
+[Feature engineering](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Feature-engineering:-Text-preprocessing)
 
 [Model training](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Model-training)
 
@@ -40,8 +40,7 @@ Text Sentiment classification is the automated process of identifying and classi
 - Train dataset: 41159 examples
 - Test dataset: 3798 examples
 
-## **FEATURE ENGINEERING: TEXT PREPROCESSING**
-***Text preprocessing:***
+## **FEATURE ENGINEERING**
 
 It's necessary to preprocess text data for using in algorithm:
 - tokenization — convert sentences to words
@@ -52,7 +51,7 @@ It's necessary to preprocess text data for using in algorithm:
 
 *Using Language Detector (sparknlp) model to check text language*
 
-## **MODEL TRAINING: RNNs in different variants**
+## **MODEL TRAINING**
 *Compute class weight to control unbalanced data*
 - Simple RNN model with Keras tokenizer
 - LSTM with word embeddings (GloVe vectors):
@@ -71,7 +70,7 @@ It's necessary to preprocess text data for using in algorithm:
 | **Bi-Directional RNN** | 0.65 | 0.65 |
 |  |  |  |
 
-**RECOMMENDATIONS for further work:**
+**RECOMMENDATIONS**
 * Data preprocessing:
     - recheck rare words. If there are word counts less than 2 it has a sense to delete them as outliers.
     - recheck text language. If our dataset contains of examples with different languages and we use it for model training (if our task is not *translating*). After we will get model with poor predictive model. In this project I showed how it's possible to use Language Detector model.
