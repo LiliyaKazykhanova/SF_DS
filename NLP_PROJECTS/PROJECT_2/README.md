@@ -70,7 +70,7 @@ It's necessary to preprocess text data for using in algorithm:
 | **Bi-Directional RNN** | 0.65 | 0.65 |
 |  |  |  |
 
-**RECOMMENDATIONS**
+## **RECOMMENDATIONS**
 * Data preprocessing:
     - recheck rare words. If there are word counts less than 2 it has a sense to delete them as outliers.
     - recheck text language. If our dataset contains of examples with different languages and we use it for model training (if our task is not *translating*). After we will get model with poor predictive model. In this project I showed how it's possible to use Language Detector model.
