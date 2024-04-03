@@ -29,7 +29,7 @@ Text Sentiment classification is the automated process of identifying and classi
 
 [Feature engineering: Text preprocessing](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Feature-engineering:-Text-preprocessing)
 
-[Model training: RNNs in different variants](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Model-training:-RNNs-in-different-variants)
+[Model training](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Model-training)
 
 [Results](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2#Results)
 
