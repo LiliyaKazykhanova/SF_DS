@@ -15,6 +15,7 @@ Course: [SkillFactory Data Science](https://skillfactory.ru/data-science-special
 
 ## NLP PROJECTS:
 * [Project 1. Text Vectorization and Word Embedding](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_1)
+* [Project 2. Text Classification (sentiment)](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_2)
 
 ## FINAL PROJECT
 * [Final project: Resume recommender system](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/PROJECT_final)
