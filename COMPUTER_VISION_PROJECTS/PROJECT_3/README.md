@@ -39,6 +39,6 @@ Semantic Segmentation of spacecraft components.
     - optimizer - Adam
     - the initial learning rate to vary at the beginning of the epochs according to the "cosine annealing with warm restarts" schedule.
 
-| Model | IoU |
-| :-: | Train | Test |
+| Model | IoU Train | IoU Test |
+| :-: | :-: | :-: |
 | **DeepLabV3+** | 0.919 | 0.8587 |
