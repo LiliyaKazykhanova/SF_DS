@@ -12,6 +12,8 @@ Course: [SkillFactory Data Science](https://skillfactory.ru/data-science-special
 
 ## CV PROJECTS:
 * [Project 1. Image classification: person faces](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/COMPUTER_VISION_PROJECTS/PROJECT_1)
+* [Project 2. Face mask detection](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/COMPUTER_VISION_PROJECTS/PROJECT_2)
+* [Project 3. Semantic Segmentation of spacecraft components](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/COMPUTER_VISION_PROJECTS/PROJECT_3)
 
 ## NLP PROJECTS:
 * [Project 1. Text Vectorization and Word Embedding](https://github.com/LiliyaKazykhanova/SF_DS/tree/main/NLP_PROJECTS/PROJECT_1)
