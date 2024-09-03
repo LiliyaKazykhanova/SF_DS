@@ -70,6 +70,38 @@ There are the next steps before Model building/training:
 Based on the confusion matrix for each tag we can conclude that:
 * Tokens with similar meanings are predicted by the model with similar tag pair (B-PER/I-PER, B-ORG/I-ORG, B-LOC/I-LOC) or tag O (means the word doesn’t correspond to any entity).
 
+## **MODEL TRAINING with Trainer()**
+- mBERT model
+- Training hypermarameters
+    * **batch size** - 16
+    * **number of epochs** - 5
+    * **learning_rate** - 1e-5
+    * **weight decay** (regularization technique) - 0.01
+    <!-- * **warmup** (learning rate schedule) - 0.1 -->
+## **RESULTS**
+* overall_f1 - 0.95
+
+* Altough score value is high there is missmatches in real and predicted tags:
+
+| real tag | pred tag | token | score |
+| :-: | :-: | :-: | :-: |
+| B-PER | O | Линик стала''. [SEP] | 0.99 |
+| I-PER | O | ##ник стала''. [SEP] | 1.0 |
+|  |  |  | |
+
+* At the same time the model also suggested better tag, for example in the next case:
+    - Here 'ВКонтакте' token is look like more B-/I-ORG as predicted by the model than O (real tag).
+    
+| real tag | pred tag | token | score |
+| :-: | :-: | :-: | :-: |
+| O | B-ORG | ВКонтакте даже проводится | 0.99 |
+| O | I-ORG | ##Контакте даже проводится о | 0.99 |
+| O | I-ORG | ##онтакте даже проводится опрос | 0.99 |
+| O | I-ORG | ##такте даже проводится опрос с | 0.99 |
+| O | I-ORG | ##те даже проводится опрос с пер | 0.99 |
+|  |  |  | |
+
 ## **RECOMMENDATIONS**
 **How to solve these missmatches?**
 * Increasing epoch number?
+* Use more precisely labeled data
