@@ -9,7 +9,7 @@ In this notebook we will train a Question Answering model using DeBERTa.
 * Using the data to build a Question Answering model.
 
 **Type of ML/DL task**
-* Token Classification (NER)
+* Question Answering
 
 **Data:**
 * It is a [SberQuAD](https://arxiv.org/pdf/1912.09723) (Sberbank Question Answering Dataset).
