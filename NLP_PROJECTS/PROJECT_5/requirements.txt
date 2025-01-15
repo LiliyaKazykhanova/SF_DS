@@ -117,7 +117,7 @@ dask-cudf @ file:///opt/conda/conda-bld/work/python/dask_cudf
 dask-expr==1.1.11
 dataclasses-json==0.6.7
 dataproc_jupyter_plugin==0.1.79
-datasets==2.21.0
+datasets==3.2.0
 datashader==0.16.3
 datatile==1.0.3
 db-dtypes==1.2.0
